@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-ejb" name="ShoppingCart:ejb exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/ShoppingCart_ejb_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="ShoppingCart/ejb/EJB" />
+      <element id="module-output" name="ShoppingCart" />
+    </root>
+  </artifact>
+</component>
